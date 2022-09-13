@@ -28,4 +28,6 @@ int main(int ac, char **av) {
         index += 1;
     }
     print_array(&array[0], MAX_ARRAY_SIZE);
+    return 0;
+}
    
